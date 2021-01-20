@@ -17,4 +17,4 @@ class Settings():
         self.bullet_height = 15
         self.bullet_color = 60, 60, 60
         # 屏幕中同时存在的子弹的最大数目
-        self.bullets_allowed = 5
+        self.bullets_allowed = 20
