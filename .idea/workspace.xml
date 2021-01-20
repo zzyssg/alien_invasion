@@ -20,14 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3bfa5f37-7f5b-4bdc-a451-b8f6dbc439b2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/alien_invasion.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/alien_invasion.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alien_invasion.py" beforeDir="false" afterPath="$PROJECT_DIR$/alien_invasion.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/game_functions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pygame-1.9.6-cp38-cp38-win_amd64.whl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/setting.py" beforeDir="false" afterPath="$PROJECT_DIR$/setting.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ship.py" beforeDir="false" afterPath="$PROJECT_DIR$/ship.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -301,7 +294,7 @@
       <updated>1611035342290</updated>
       <workItem from="1611064484316" duration="60000" />
       <workItem from="1611064552910" duration="13000" />
-      <workItem from="1611065157736" duration="4865000" />
+      <workItem from="1611065157736" duration="5460000" />
     </task>
     <servers />
   </component>
@@ -350,22 +343,22 @@
   </component>
 <<<<<<< Updated upstream
   <component name="WindowStateProjectService">
-    <state width="1877" height="257" key="GridCell.Tab.0.bottom" timestamp="1611070395223">
+    <state width="1877" height="257" key="GridCell.Tab.0.bottom" timestamp="1611070995790">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="257" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1611070395223" />
-    <state width="1877" height="257" key="GridCell.Tab.0.center" timestamp="1611070395223">
+    <state width="1877" height="257" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1611070995790" />
+    <state width="1877" height="257" key="GridCell.Tab.0.center" timestamp="1611070995790">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="257" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1611070395223" />
-    <state width="1877" height="257" key="GridCell.Tab.0.left" timestamp="1611070395223">
+    <state width="1877" height="257" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1611070995790" />
+    <state width="1877" height="257" key="GridCell.Tab.0.left" timestamp="1611070995790">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="257" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1611070395223" />
-    <state width="1877" height="257" key="GridCell.Tab.0.right" timestamp="1611070395223">
+    <state width="1877" height="257" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1611070995790" />
+    <state width="1877" height="257" key="GridCell.Tab.0.right" timestamp="1611070995790">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="257" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1611070395223" />
+    <state width="1877" height="257" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1611070995790" />
     <state x="304" y="204" key="SettingsEditor" timestamp="1611065264087">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

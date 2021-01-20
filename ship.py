@@ -36,3 +36,7 @@ class Ship():
             self.center -= self.ai_settings.ship_speed_factor
         # 根据center属性调整rect的位置——更新rect对象
         self.rect.centerx = self.center
+
+    def center_ship(self):
+        """使飞船在屏幕居中"""
+        self.center = self.screen_rect.centerx
